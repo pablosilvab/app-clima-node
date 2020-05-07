@@ -1,6 +1,6 @@
 ## Aplicación del Clima
 
-Se debe ejecutar ```npm install``` para las librearías
+Se debe ejecutar ```npm install``` para las librerías
 
 ### Ejemplo:
 
